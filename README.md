@@ -1,4 +1,4 @@
-# Jonathan Noir's Works Repository
+# Jonathan Noir's Repository
 
 Welcome to the official GitHub repository for **Jonathan Noir's works**, an account managed by **Vanther Magazine**, a subsidiary of **The Nomad Oasis**.
 
